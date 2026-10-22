@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+out/
+
+# IDE and temporary files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Data logs and runtime data (can be generated at runtime)
+data/
+logs/
+reports/
