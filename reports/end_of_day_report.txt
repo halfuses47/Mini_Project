@@ -1,0 +1,15 @@
+=====================================================
+           MINIBANK END-OF-DAY SUMMARY REPORT        
+=====================================================
+
+Processed Log Files Details:
+-----------------------------------------------------
+File: transactions_afternoon.log | Size:    380 bytes | Last Modified: 2026-10-22T12:21:44.2196301Z
+File: transactions_morning.log | Size:    376 bytes | Last Modified: 2026-10-22T12:21:44.2160289Z
+-----------------------------------------------------
+Total Files Processed : 2
+Total Deposits        : Rs.70000
+Total Withdrawals     : Rs.20000
+Net Balance Change    : Rs.50000
+=====================================================
+

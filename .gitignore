@@ -1,5 +1,6 @@
-# Compiled class files
+# Compiled class and archive files
 *.class
+*.jar
 out/
 
 # IDE and temporary files
